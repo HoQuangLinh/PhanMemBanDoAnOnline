@@ -30,14 +30,26 @@
 - Đặt hàng, thanh toán
 ![image](https://user-images.githubusercontent.com/67258104/124369992-41177f80-dc9c-11eb-9ee8-48595fc2a669.png)
 - Hiển thị thông tin cá nhân ( ảnh đại diện, mật khẩu, sđt, địa chỉ, email,…)
+![image](https://user-images.githubusercontent.com/67258104/124370068-2265b880-dc9d-11eb-80d9-f784521c63f4.png)
+![image](https://user-images.githubusercontent.com/67258104/124370070-285b9980-dc9d-11eb-942f-b116ed6b8d79.png)
 ## Yêu cầu thiết bị 
 - Android 6.0 trở lên.
 ## Thư viện và công nghệ
-- [React native](https://reactnative.dev/)
+- [React native](https://reactnative.dev/).
 - [MongoDB](https://www.mongodb.com/).
 - [Expo](https://expo.io/).
-## Backend/Database/Diagram
-
+### Fontend
+- [Redux](https://redux.js.org/).
+- [React-redux](https://react-redux.js.org/).
+### Backend
+Nodejs,express JS, JWT web token, nodemailer
+- [Nodejs](https://nodejs.org/en/).
+- [Express](https://expressjs.com/).
+- [JavaScript](https://www.javascript.com/).
+- [JSON Web Token](https://jwt.io/).
+- [Nodemailer](https://nodemailer.com/about/).
+## Database/Diagram
+- Link
 ## Tác giả
 - Hồ Quang Linh - 19521750.
 - Nguyễn Đức Chí Đạt - 19521334.
