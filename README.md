@@ -18,9 +18,17 @@
 - Hiển thị danh sách loại món ăn và món ăn
 ![b60e67173a3cce62972d](https://user-images.githubusercontent.com/67258104/124369917-5cce5600-dc9b-11eb-8a4c-ad16879b311b.jpg)
 - Hiển thị danh sách các đơn hàng và tình trạng 
-- Cho biết thông tin cá nhân của người dùng và các món ăn đã mua sắm
+![image](https://user-images.githubusercontent.com/67258104/124369986-3230cd00-dc9c-11eb-981d-a2c1b9d80634.png)
 - Thêm, sửa, xóa, món ăn và điều chỉnh tình trạng đơn hàng
+![image](https://user-images.githubusercontent.com/67258104/124370002-5391b900-dc9c-11eb-9c19-903e1ba0a3f2.png)
+- Màn hình chỉnh sửa trạng thái đơn hàng
+![image](https://user-images.githubusercontent.com/67258104/124370007-60aea800-dc9c-11eb-81d9-49f972d01b5d.png)
+- Màn hình chỉnh sửa món ăn
+![image](https://user-images.githubusercontent.com/67258104/124370009-673d1f80-dc9c-11eb-957d-2c993c0dd903.png)
+- Màn hình chỉnh sửa loại món ăn
+![image](https://user-images.githubusercontent.com/67258104/124370012-6d330080-dc9c-11eb-9cc1-73a23ddb33bf.png)
 - Đặt hàng, thanh toán
+![image](https://user-images.githubusercontent.com/67258104/124369992-41177f80-dc9c-11eb-9ee8-48595fc2a669.png)
 - Hiển thị thông tin cá nhân ( ảnh đại diện, mật khẩu, sđt, địa chỉ, email,…)
 ## Yêu cầu thiết bị 
 - Android 6.0 trở lên.
@@ -28,7 +36,7 @@
 - [React native](https://reactnative.dev/)
 - [MongoDB](https://www.mongodb.com/).
 - [Expo](https://expo.io/).
-##Backend/Database/Diagram
+## Backend/Database/Diagram
 
 ## Tác giả
 - Hồ Quang Linh - 19521750.
