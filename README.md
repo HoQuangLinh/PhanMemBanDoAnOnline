@@ -4,7 +4,7 @@
 - [Chức năng](#chức-năng)
 - [Yêu cầu thiết bị](#yêu-cầu-thiết-bị)
 - [Thư viện và công nghệ](#thư-viện-và-công-nghệ)
-- [Backend/Database/Diagram](#backend/database/diagram)
+- [Database/Diagram](#database/diagram)
 - [Tác giả](#tác-giả)
 - [Giấy phép](#giấy-phép)
 - [Giảng viên hướng dẫn](#giảng-viên-hướng-dẫn)
