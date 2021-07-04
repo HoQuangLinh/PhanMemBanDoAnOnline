@@ -49,7 +49,7 @@ Nodejs,express JS, JWT web token, nodemailer
 - [JSON Web Token](https://jwt.io/).
 - [Nodemailer](https://nodemailer.com/about/).
 ## Database/Diagram
-- Link
+![image](https://user-images.githubusercontent.com/67258104/124370159-5d1c2080-dc9e-11eb-8e9c-0217ad360fa9.png)
 ## Tác giả
 - Hồ Quang Linh - 19521750.
 - Nguyễn Đức Chí Đạt - 19521334.
