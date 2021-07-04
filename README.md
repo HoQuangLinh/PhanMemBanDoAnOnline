@@ -4,7 +4,9 @@
 - [Chức năng](#chức-năng)
 - [Yêu cầu thiết bị](#yêu-cầu-thiết-bị)
 - [Thư viện và công nghệ](#thư-viện-và-công-nghệ)
-- [Database/Diagram](#database/diagram)
+- [Backend](#backend)
+- [Frontend](#frontend)
+- [Database/Diagram](#database-diagram)
 - [Tác giả](#tác-giả)
 - [Giấy phép](#giấy-phép)
 - [Giảng viên hướng dẫn](#giảng-viên-hướng-dẫn)
@@ -34,21 +36,20 @@
 ![image](https://user-images.githubusercontent.com/67258104/124370070-285b9980-dc9d-11eb-942f-b116ed6b8d79.png)
 ## Yêu cầu thiết bị 
 - Android 6.0 trở lên.
-## Thư viện và công nghệ
+## Thư viện và công nghệ
 - [React native](https://reactnative.dev/).
 - [MongoDB](https://www.mongodb.com/).
 - [Expo](https://expo.io/).
-### Fontend
+### Frontend
 - [Redux](https://redux.js.org/).
 - [React-redux](https://react-redux.js.org/).
 ### Backend
-Nodejs,express JS, JWT web token, nodemailer
 - [Nodejs](https://nodejs.org/en/).
 - [Express](https://expressjs.com/).
 - [JavaScript](https://www.javascript.com/).
 - [JSON Web Token](https://jwt.io/).
 - [Nodemailer](https://nodemailer.com/about/).
-## Database/Diagram
+## Database Diagram
 ![image](https://user-images.githubusercontent.com/67258104/124370159-5d1c2080-dc9e-11eb-8e9c-0217ad360fa9.png)
 ## Tác giả
 - Hồ Quang Linh - 19521750.
